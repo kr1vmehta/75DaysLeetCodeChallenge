@@ -14,4 +14,5 @@ class Solution:
                 c+=1
         for i in range(n-c,n):
             nums[i]=0
+
         
