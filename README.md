@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kr1vmehta/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
